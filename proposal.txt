@@ -1,0 +1,72 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+
+Journal Program
+
+2. What real-world problem will your program address or help to solve?
+
+Many people struggle to keep a journal.  Many start and stop, some don't even start, and very few can keep a journal.
+This problem may happen for some reasons, like the following:
+-Lack of time
+-Discouragement at the thought of having to write down everything that happened during the day
+-Sometimes for not even knowing what to write
+My program when executed will display a menu with options for writing in the journal (answering a random prompt),
+displaying a past journal entry, save and load to a txt file, and quit.
+They will be able to write in a journal just shortly answering random generated prompts and saving that in their files
+
+3. What will you learn from developing this program?
+
+I will learn, remember, apply and use everything I have learned in this course by creating a program that even I will use to solve 
+a personal 'problem' that I believe many of us face. I will learn and 'feel' how a really developer feels 
+when writing code to solve a real problem or build a project within a certain period of time.
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+    -datetime
+    -pytest
+    -random
+    -csv (maybe)
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+    Yes, definetely! I will write several functions each one performing only one task that together will make my Program does what it should.
+    Some of these functions are:
+    -main
+    -get_random_prompt
+    -append_text
+    -write_text
+    (I might change the functions name later)
+
+6. Will you write test functions to test at least two of your program
+functions?
+
+Yes, I will test at least the functions:
+-That write to a txt file, 
+-Generate a random prompt
+-Read pasts's journal entries
+

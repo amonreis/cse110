@@ -1,0 +1,30 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+- When I started this course, I first learned that there are actually 4 different types of 
+- functions (Built-in functions; Standard library functions; Third-party functions; User-defined functions),
+- and I realized that I already knew and used some of those functions. but I really wanted to learn more 
+- of the Python built-in functions. When I also understood concepts like "modules", "methods", and "parameters", 
+- the idea of writing and calling functions seemed to make more sense to me. I experienced the power of functions
+- when I was working in a program where I had to write functions where each one would create sentences by 
+- randomly choosing an article, a noun, a verb, a preposition, an adjective, and an adverb, and at the end write a 
+- function that would put all these functions together in a single sentence. Breaking up my program into functions,
+- each one performing one single task, accepting parameters, and returning a value truly enchanted me.
+
+2. In your judgment, what is the value of test functions?
+
+- Testing functions help me not only verify that my functions and my program run, 
+- but also help me know that each function I create will do what it is supposed to do.
+- Test functions also help me quickly find errors in my program so I can fix them so they work properly.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+- The process I would go through to find and fix an error in a program would be to first run the program to see if 
+- the problem is a syntax error. After that, I would use the debugger tool and breakpoints to find the specific problem. 
+- Lastly, I would create a testing function program to test each function in my program to see if they are producing the correct results.
+- One thing I could do to improve this process would be to improve my ability to write testing functions 
+- to fix logic errors which are the ones I believe I make the most.

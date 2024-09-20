@@ -1,0 +1,27 @@
+
+
+2023-01-10
+
+Width of the tire: 185 mm
+Aspect ratio of the tire: 70
+Diameter of the wheel: 13 in
+Volume of the tire: 34.6 liters
+Name: Amon Reis
+Phone Number: +55 (11) 98877-5992
+185/70R13
+N° Tires: 4 - Total: 218.37
+2023-01-10 22:28:16.821146
+
+2023-02-24
+
+Width of the tire: 205 mm
+Aspect ratio of the tire: 60
+Diameter of the wheel: 15 in
+Volume of the tire: 39.92 liters
+
+2023-03-25
+
+Width of the tire: 205 mm
+Aspect ratio of the tire: 60
+Diameter of the wheel: 15 in
+Volume of the tire: 39.92 liters
